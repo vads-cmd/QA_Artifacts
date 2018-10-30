@@ -1,7 +1,7 @@
 # QA_Artifacts
 QA Artifact samples for future work.
 
-Basically, origin of this repo was in my another github repository - ailur-cmd. That repo I am using for training purposes so I copy complited part of documents and projects to a current page. 
+Basically, origin of this repo was in my another github repository - ailur-cmd. That repo I am using for training purposes so I copied complited part of documents and projects to a current page. 
 It will be updated with test artifacts examples and templates.
 Please, use these samples to create our own documentation.
 
